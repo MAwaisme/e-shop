@@ -1,0 +1,7 @@
+.Mobile__Menus{
+    border-bottom: 1px solid #707070;
+    justify-content: space-between;
+    padding-left: 25px;
+    display: flex;
+    width: 100%;
+}
